@@ -8,6 +8,9 @@
 - [Dataset generation notebook](https://www.kaggle.com/code/artemzysko/mountain-ner-create-dataset)
 - [Dataset link](https://www.kaggle.com/datasets/artemzysko/generated-mountain-entity-recognition-dataset)
 
+# Link to model weights
+- [RoBERTa model weights for mountains NER](https://www.kaggle.com/models/artemzysko/roberta-ner-mountain)
+
 # Requirements
 pip install -r "task-1/requirements.txt"
 
