@@ -23,6 +23,7 @@ Annotated sentences with entity start and end indices.
 
 - Data Augmentation:
 Used p_typo for adding typos and n_repeats for sentence variations.
+Used p_unchanged for keep sentence unchanged (no replacement)
 
 - Model Training:
 Fine-tuned Roberta on the dataset, tracking loss and saving model weights.
