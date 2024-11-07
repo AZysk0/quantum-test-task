@@ -1,0 +1,203 @@
+,sentence,annotation
+0,we think it is very dangerous that you're climbing the mountains alone.,O O O O O O O O O O O O
+1,"seen against the sky, the Lhotse looked really beautiful.",O O O O O B-MOUNT O O O
+2,the contrast between the sky and the Mount Vinson is striking.,O O O O O O O B-MOUNT I-MOUNT O O
+3,they hate him because he gives them a Mount Rainier of homework.,O O O O O O O O B-MOUNT I-MOUNT O O
+4,john would often go Puncak Jaya climbing when he was a student.,O O O O B-MOUNT I-MOUNT O O O O O O
+5,we headed for the Mount Aconcagua cottage.,O O O O B-MOUNT I-MOUNT O
+6,we crawled like so many ants along the Mount Rainier pass.,O O O O O O O O B-MOUNT I-MOUNT O
+7,we stood on the top of the Matterhorn.,O O O O O O O O
+8,we climbed up the stream in the Lhotse.,O O O O O O O O
+9,we had native guides on our trip to the K2.,O O O O O O O O O O
+10,"we climbed up the Kangchenjunga, but with difficulty.",O O O O O O O O
+11,we saw a Cho Oyu in the distance.,O O O B-MOUNT I-MOUNT O O O
+12,"seen from a distance, this Pico de Orizaba looks like mt. fuji.",O O O O O B-MOUNT I-MOUNT I-MOUNT O O O O
+13,i think it's dangerous to climb that Mount Everest alone.,O O O O O O O B-MOUNT I-MOUNT O
+14,"let us go together. we can swim across the river, carry off the bear cubs, take them to the house on the mountains, and together find happiness.",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+15,the party did not succeed in climbing the Lhotse.,O O O O O O O O O
+16,the party walked down the K2.,O O O O O O
+17,i built a new house in view of the Annapurna.,O O O O O O O O O O
+18,the upper part of the Denali is covered with snow.,O O O O O B-MOUNT O O O O
+19,K2 bike racing has caught on with young japanese in the past few years.,B-MOUNT O O O O O O O O O O O O O
+20,betty has climbed the Makalu three times.,O O O O B-MOUNT O O
+21,finally the children saw a little orchard in the middle of the Lhotse with apple trees growing inside it.,O O O O O O O O O O O O B-MOUNT O O O O O O
+22,"at length, we reached the top of the Mount Everest.",O O O O O O O O O O
+23,"finally, the sick, tired men reached the Mount Elbrus town where he was waiting.",O O O O O O O B-MOUNT I-MOUNT O O O O O
+24,"at last, they reached the top of the Kangchenjunga.",O O O O O O O O O
+25,let's climb that Mount Vinson to see it.,O O O B-MOUNT I-MOUNT O O O
+26,"then, with a final, terrible scream, the monster flung itself off the mountain to its death on the rocks below.",O O O O O O O O O O O O O O O O O O O O
+27,the treasure is believed to lie hidden somewhere in the Mount Kilimanjaro.,O O O O O O O O O O O O
+28,the city is at the foot of the Mount Kilimanjaro.,O O O O O O O O O O
+29,we call the Mount Aconcagua tsurugidake.,O O O B-MOUNT I-MOUNT O
+30,there is only one pass over the Mont Blanc.,O O O O O O O O O
+31,the Mont Blanc rises above the plain.,O B-MOUNT I-MOUNT O O O O
+32,the Mount Vinson is easy of access.,O B-MOUNT I-MOUNT O O O O
+33,the Nanga Parbat is covered with snow.,O B-MOUNT I-MOUNT O O O O
+34,the Cho Oyu attracts many climbers.,O B-MOUNT I-MOUNT O O O
+35,the mountain is famous in myth and legend.,O O O O O O O O
+36,"the Annapurna is more than 3,000 meters above sea level.",O B-MOUNT O O O O O O O O
+37,the Nanga Parbat is about 3000 meters above sea level.,O B-MOUNT I-MOUNT O O O O O O O
+38,we have snow on the Dhaulagiri all the year round.,O O O O O B-MOUNT O O O O
+39,the Kangchenjunga is covered with snow all the year round.,O B-MOUNT O O O O O O O O
+40,how high is the Makalu?,O O O O O
+41,"this Mount Elbrus has an altitude of 3,000 meters.",O B-MOUNT I-MOUNT O O O O O O
+42,the Manaslu peak was covered with snow.,O B-MOUNT O O O O O
+43,the Annapurna top is covered with snow almost all year.,O B-MOUNT O O O O O O O O
+44,the top of the Makalu is always covered with snow.,O O O O B-MOUNT O O O O O
+45,there was a tower on the top of the Mont Blanc.,O O O O O O O O O O O
+46,the summit of the Cho Oyu is covered with snow.,O O O O B-MOUNT I-MOUNT O O O O
+47,the view from the top of the Mont Blanc took my breath away.,O O O O O O O B-MOUNT I-MOUNT O O O O
+48,the Mont Blanc has a beautiful shape.,O B-MOUNT I-MOUNT O O O O
+49,it's not absolutely impossible to climb the Mount Everest.,O O O O O O O O O
+50,not a few monkeys were found in the Mont Blanc.,O O O O O O O O O O
+51,it's a lot of fun to climb that Matterhorn.,O O O O O O O O O
+52,there are many monkeys on the Mount Rainier.,O O O O O O O O
+53,i met some hikers on the mountains.,O O O O O O O
+54,the mountain is standing out in sharp relief against the blue sky.,O O O O O O O O O O O O
+55,the country is renowned for the beauty of its Annapurna scenery.,O O O O O O O O O B-MOUNT O
+56,the action took place in a Cho Oyu village.,O O O O O O B-MOUNT I-MOUNT O
+57,the Mount Aconcagua is not as high as mt. fuji.,O B-MOUNT I-MOUNT O O O O O O O
+58,the Mount Vinson is 2000 meters above sea level.,O B-MOUNT I-MOUNT O O O O O O
+59,the hotel is at the foot of a Mont Blanc.,O O O O O O O O O O
+60,you should not climb the Dhaulagiri in such bad weather.,O O O O O B-MOUNT O O O O
+61,in all my travels i've never seen a more beautiful Nanga Parbat than everest.,O O O O O O O O O O B-MOUNT I-MOUNT O O
+62,this room has fine view of the mountains.,O O O O O O O O
+63,this car has enough power to go up the mountains easily.,O O O O O O O O O O O
+64,this Pico de Orizaba path ascends to the beautiful lake.,O B-MOUNT I-MOUNT I-MOUNT O O O O O O
+65,it's dangerous to climb this Mount Aconcagua.,O O O O O O O
+66,this Pico de Orizaba is difficult to climb.,O B-MOUNT I-MOUNT I-MOUNT O O O O
+67,this Mount Kilimanjaro is among the highest in the world.,O B-MOUNT I-MOUNT O O O O O O O
+68,this Mount Fuji scenery is very beautiful.,O B-MOUNT I-MOUNT O O O O
+69,what is the height of this Mount Aconcagua?,O O O O O O O O
+70,climbing this Mount Rainier is very difficult.,O O B-MOUNT I-MOUNT O O O
+71,we found out recently that some foxes live here on this Mount Vinson.,O O O O O O O O O O O O O
+72,did you know that some foxes lived on this Mont Blanc?,O O O O O O O O O O O
+73,carlos climbed the Cho Oyu.,O O O O O
+74,a man named carlos came to a Makalu village looking for that old man.,O O O O O O O B-MOUNT O O O O O O
+75,your mother will probably object to your climbing the Matterhorn.,O O O O O O O O O O
+76,mt. everest is higher than any other Nanga Parbat in the world.,O O O O O O O B-MOUNT I-MOUNT O O O
+77,mt. everest is the highest Puncak Jaya in the world.,O O O O O B-MOUNT I-MOUNT O O O
+78,everest is the highest Pico de Orizaba in the world.,O O O O B-MOUNT I-MOUNT I-MOUNT O O O
+79,no one has been able to reach the top of the Pico de Orizaba.,O O O O O O O O O O O O O O
+80,that is such a high Lhotse as old people can't climb.,O O O O O B-MOUNT O O O O O
+81,that is the highest Annapurna in the world.,O O O O B-MOUNT O O O
+82,look at that Puncak Jaya which is covered with snow.,O O O B-MOUNT I-MOUNT O O O O O
+83,what's the name of the Mount Everest range?,O O O O O B-MOUNT I-MOUNT O
+84,look at that K2.,O O O O
+85,that Mount Kilimanjaro is covered with snow.,O B-MOUNT I-MOUNT O O O O
+86,the mountain used to send out clouds of smoke.,O O O O O O O O O
+87,that Cho Oyu is in the clouds.,O B-MOUNT I-MOUNT O O O O
+88,how high Mount Aconcagua that is!,O O B-MOUNT I-MOUNT O O
+89,how high is that Mount Vinson?,O O O O O O
+90,that Kangchenjunga is five times as high as this one.,O B-MOUNT O O O O O O O O
+91,that Mount Kilimanjaro is about three thousand meters high.,O B-MOUNT I-MOUNT O O O O O O
+92,the top of that Denali is flat.,O O O O B-MOUNT O O
+93,it is dangerous to climb that Mount Rainier.,O O O O O O O O
+94,you need good equipment to climb that Denali.,O O O O O O O O
+95,we are going to climb that Mount Everest.,O O O O O O O O
+96,look at that high Mount Rainier.,O O O O O O
+97,that high K2 is mt. tsukuba.,O O B-MOUNT O O O
+98,"the professional skier liked to ""hot-dog"" down the Denali.",O O O O O O O O O
+99,"i know you must be buried in your Mont Blanc of mails, but i wonder if i can hear from you regarding the mail i sent you last week?",O O O O O O O O B-MOUNT I-MOUNT O O O O O O O O O O O O O O O O O O O
+100,"after six hours' climbing, we finally succeeded in reaching the top of the mountains.",O O O O O O O O O O O O O O
+101,i was in the lhotse.,O O O O O
+102,"puncak jaya in the ocean and even whole ranges are still being discovered, and most of them have not yet been explored in detail.",O O O O O O O O O O O O O O O O O O O O O O O O
+103,i would rather go to the annapurna than to the beach.,O O O O O O O O O O O
+104,"which do you like better, the sea or the kangchenjunga?",O O O O O O O O O O
+105,some people like the sea; others prefer the k2.,O O O O O O O O O
+106,we watched the sun setting behind the mount aconcagua.,O O O O O O O O O
+107,the mount vinson are a lush green in summer.,O O O O O O O O O
+108,i was roaming over the cho oyu all through the night.,O O O O O O O O O O O
+109,the pico de orizaba in the himalayas are higher than those in the andes.,O O O O O O O O O O O O O O
+110,it was so nice a day that we went for a hike in the mount vinson.,O O O O O O O O O O O O O O O O
+111,the girl is getting over annapurna of difficulties.,O O O O O O O O
+112,the path twists through the mount aconcagua.,O O O O O O O
+113,the mont blanc look nicer from a distance.,O O O O O O O O
+114,the two dhaulagiri are of equal height.,O O O O O O O
+115,the Mount Fuji in this part of the country are full of variety.,O B-MOUNT I-MOUNT O O O O O O O O O O
+116,this river rises in the manaslu in nagano.,O O O O O O O O
+117,it's very pleasant here in the mount vinson.,O O O O O O O O
+118,this dog is trained to save people in the Mount Fuji.,O O O O O O O O O O O
+119,the moon is coming up over the annapurna.,O O O O O O O O
+120,"for a person who is in good physical condition, climbing mount aconcagua is a cinch.",O O O O O O O O O O O O O O O
+121,we could see the reflection of the mount aconcagua in the lake.,O O O O O O O O O O O O
+122,a vast forest covers the mount everest.,O O O O O O O
+123,the air is rare on high mount vinson.,O O O O O O O O
+124,nearly 80 percent of the land is manaslu.,O O O O O O O O
+125,why don't we go to the cho oyu this weekend?,O O O O O O O O O O
+126,those mount rainier over there have turned white this morning.,O O O O O O O O O O
+127,the cho oyu are reflected in the lake.,O O O O O O O O
+128,you cannot be careful in the mont blanc.,O O O O O O O O
+129,i anticipated a quiet vacation in the cho oyu.,O O O O O O O O O
+130,"we're going up into the cho oyu, so why don't you come with us?",O O O O O O O O O O O O O O
+131,the sun descended behind the mount rainier.,O O O O O O O
+132,it is warmer over the Pico de Orizabas.,O O O O O O O O
+133,the air is very pure in the nanga parbat.,O O O O O O O O O
+134,in the kangchenjunga it is not until the end of april that the snow disappears completely from the ground.,O O O O O O O O O O O O O O O O O O O
+135,manaslu look better viewed from a distance.,O O O O O O O
+136,the lhotse lay covered with deep snow.,O O O O O O O
+137,mount rainier are not necessarily green.,O O O O O O
+138,the matterhorn are red against the blue sky.,O O O O O O O O
+139,my brother loves taking pictures of mount vinson.,O O O O O O O O
+140,my town is surrounded by tall makalu.,O O O O O O O
+141,i am thinking of going to the cho oyu.,O O O O O O O O O
+142,i went to nagano to take pictures of the makalu covered with snow.,O O O O O O O O O O O O O
+143,at one time i lived alone in the lhotse.,O O O O O O O O O
+144,i like matterhorn better than seas.,O O O O O O
+145,i climb lhotse because they are there.,O O O O O O O
+146,i like to walk in the mount aconcagua.,O O O O O O O O
+147,i like climbing Mount Vinsons.,O O O O O
+148,i saw a chain of makalu.,O O O O O O
+149,i am going to write about our parks and mount vinson.,O O O O O O O O O O O
+150,i would go to the mount vinson when young.,O O O O O O O O O
+151,i know better than to climb mount vinson in winter without making all necessary preparations beforehand.,O O O O O O O O O O O O O O O O
+152,i don't like my brother climbing the mount aconcagua.,O O O O O O O O O
+153,we went to the mount fuji to ski.,O O O O O O O O
+154,everything in the fields and mont blanc looks fresh when spring comes.,O O O O O O O O O O O O
+155,faith can move mount elbrus.,O O O O O
+156,they have climbed the highest mount vinson and walked on the floor of the seas.,O O O O O O O O O O O O O O O
+157,look at the mount vinson covered with snow.,O O O O O O O O
+158,some snow-covered lhotse were seen in the distance.,O O O O O O O O
+159,the river descends from the Manaslus to the bay below.,O O O O O O O O O O
+160,you'll see a lot of high manaslu through the window.,O O O O O O O O O O
+161,the dhaulagiri have brought forth a mouse.,O O O O O O O
+162,the black and white bears living in the mountains of china and tibet are called pandas.,O O O O O O O O O O O O O O O O
+163,"with winter coming on, the mount rainier will soon be covered with snow.",O O O O O O O O O O O O O
+164,you had better not climb such high annapurna in winter.,O O O O O O O O O O
+165,run and hide in the mount vinson.,O O O O O O O
+166,japan has a lot of beautiful mount rainier.,O O O O O O O O
+167,his airplane crashed in the dhaulagiri.,O O O O O O
+168,he makes mount kilimanjaro out of molehills.,O O O O O O O
+169,he likes Matterhorneering and is at home with japanese k2.,O O O O O O O O O O
+170,he's accustomed to climbing mount everest.,O O O O O O
+171,he led his men and horses over snowy cho oyu and down into hot valleys.,O O O O O O O O O O O O O O O
+172,they went to a resort in the mount kilimanjaro last summer.,O O O O O O O O O O O
+173,they couldn't decide whether to go to the manaslu or the sea.,O O O O O O O O O O O O
+174,flat land has no Mount Vinsons or hills.,O O O O O O O O
+175,there are colossal dhaulagiri in the north.,O O O O O O O
+176,"playing baseball is a sport, and climbing mount elbrus is a sport, too.",O O O O O O O O O O O O O
+177,the suspect was hiding out in the mount elbrus for three weeks.,O O O O O O O O O O O O
+178,"the ufo, with a zigzag movement you couldn't think of as being a plane, flew off into the annapurna in the east.",O O O O O O O O O O O O O O O O O O O O O O
+179,tadami is in minamiaizu in fukushima; cut off by steep mount vinson and located on the prefecture border with niigata.,O O O O O O O O O O O O O O O O O O O O
+180,"when warm, light, air crosses makalu it rises into the upper atmosphere and does not fall back to the ground. in this, and other, ways wind changes with the terrain.",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+181,"even as we stand here tonight, we know there are brave americans waking up in the deserts of iraq and the mount fuji of afghanistan to risk their lives for us.",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+182,"even as we stand here tonight, we know there are brave americans waking up in the deserts of iraq and the denali of afghanistan, to risk their lives for us.",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+183,"when violent extremists operate in one stretch of mount vinson, people are endangered across an ocean.",O O O O O O O O O O O O O O O O
+184,all the villagers went into the annapurna to look for a missing cat.,O O O O O O O O O O O O O
+185,let's go for a walk to the mount elbrus.,O O O O O O O O O
+186,"there is definitely a way to quit the world and live like an hermit in the k2, being self-sufficient and without contact with anybody while not dying like a dog.",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+187,the salts and minerals found in these k2 are quite diverse.,O O O O O O O O O O O
+188,i would have gone to the mount kilimanjaro had i had the money.,O O O O O O O O O O O O O
+189,this summer we'll go to the lhotse and to the sea.,O O O O O O O O O O O
+190,i suggest that you visit some villages in the manaslu.,O O O O O O O O O O
+191,we are going to the makalu.,O O O O O O
+192,i like the mount kilimanjaro more than i like the sea.,O O O O O O O O O O O
+193,it's so grey out there that i can't see the mount aconcagua on the other side of the valley.,O O O O O O O O O O O O O O O O O O O
+194,"with these eyes, i shall see mountains burn.",O O O O O O O O
+195,"the mount kilimanjaro could be seen from afar, and it was a breathtaking sight.",O O O O O O O O O O O O O O
+196,my parents met each other in the cho oyu.,O O O O O O O O O
+197,we're taking a crash course in first aid before our two-week trek through the lhotse.,O O O O O O O O O O O O O O O
+198,the dhaulagiri were all around the city.,O O O O O O O
+199,tom loves to climb mont blanc.,O O O O O O
+200,the lake is surrounded by mount elbrus.,O O O O O O O
+201,tom's dream is to live in the mount kilimanjaro.,O O O O O O O O O
