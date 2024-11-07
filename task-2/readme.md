@@ -17,7 +17,7 @@ This project focuses on the analysis of satellite images to identify and compare
 Applied SIFT to extract and match keypoints between Sentinel-2 images, enabling comparison of geographical features across seasons.
 
 - Image Preprocessing:
-Implemented functions for loading, resizing, and normalizing high-resolution Sentinel-2 images. Images were normalized to 0-255 range and converted to grayscale where necessary for optimal SIFT performance.
+Implemented functions for loading, resizing, and normalizing high-resolution Sentinel-2 images. Images were normalized to 0-255 range.
 
 - Lazy Image Loader:
 Built a lazy loader to load images on demand with optional resizing, enhancing efficiency for large datasets.
